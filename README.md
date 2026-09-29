@@ -26,4 +26,5 @@ No build step or server is needed. Open `warp_front.html` in any modern web brow
 
 | File | Purpose |
 |---|---|
-| `warp_front.html` | A fully self-contained application. Contains all page markup, UI styling, and the vanilla JavaScript game engine. |
+| `index.html` | A fully self-contained application. Contains all page markup, UI styling, and the vanilla JavaScript game engine. |
+| `WarpFrontRules.md` | The original rule set for physical cards. The origin of this project. |
