@@ -14,7 +14,7 @@ Built with AI coding assistance.
 
 ## Play
 
-No build step or server is needed. Open `warp_front.html` in any modern web browser.
+No build step or server is needed. Open the html file in any modern web browser.
 
 ## Publish with GitHub Pages
 
